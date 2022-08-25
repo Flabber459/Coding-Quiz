@@ -4,8 +4,6 @@ var guide = document.getElementById("guide")
 var startButton = document.getElementById("start-button")
 var answerEl = document.createElement("div")
 
-answerEl.innerHTML = 
-
 var questions = {
     title: "This is Question 1",
     options: ['1', '2', '3', '4'],
