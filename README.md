@@ -1,3 +1,3 @@
 # Coding-Quiz
 
-This is a quiz to learn how to code.
+This is a quiz about coding.
